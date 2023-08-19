@@ -42,8 +42,3 @@
 8. Practical Applications:
   - Class projects that replicate real-world situations.
   - Creating a spam filter using Spark and Natural Language Processing.
-  - Using Spark Streaming to analyze real-time Twitter data.
-
-9. Prerequisites:
-  - General programming skills in any language, preferably Python.
-  - 20 GB of free space on your local computer or a strong internet connection for AWS.
